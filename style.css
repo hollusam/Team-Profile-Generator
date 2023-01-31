@@ -1,0 +1,17 @@
+body {
+    background-color: #f5f5dc;
+}
+
+.team-heading {
+    background-color: #3f301d;
+    color: #f0e68c;
+}
+
+.team-area {
+    gap: 20px;
+}
+
+.card-header {
+    background-color: #f0e68c;
+    color: #3f301d;
+}
